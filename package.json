@@ -11,7 +11,8 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "cypress": "^12.6.0"
+    "cypress": "^12.6.0",
+    "mochawesome": "^7.1.3"
   },
   "dependencies": {
     "exercicio_cypress": "file:"
